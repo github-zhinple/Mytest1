@@ -1,0 +1,27 @@
+Parsing file ralay_test_proj.s37...
+Initializing GBL file...
+Adding application to GBL...
+Writing GBL file ralay_test_proj.gbl...
+DONE
+Note that this GBL file does not use encryption or digital signing.  Please refer to UG266 for more information about enabling these features from your S37 files.image-builder Copyright 2013 Silicon Laboratories, Inc.
+Version: 1.5.2
+ECC signature support NOT present.
+
+EBL file integrity 'ralay_test_proj.gbl': OK (v3 format)
+
+File: ralay_test_proj.ota
+Magic Number:         0x0BEEF11E
+Header Version:       0x0100
+Header Length:        56 bytes
+Field Control:        0x0000
+Manufacturer ID:      0x1002
+Image Type:           0x1002
+Firmware Version:     0x00000001
+Stack Version:        0x0002
+Header String:        EBL ralay_test_proj
+Total Image Size:     256052 bytes
+Total Tags:           1
+  ID:                 0x0000   (Upgrade Image)
+  Length:             255990 bytes
+
+
